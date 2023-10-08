@@ -1,4 +1,4 @@
 # my-first-repo
 this is my first git repository
 <br>
-aurthor - sawaira junaid
+aurthor - sawaira nasser
